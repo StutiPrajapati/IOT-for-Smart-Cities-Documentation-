@@ -1,4 +1,3 @@
 Title: IOT for Smart Cities
 
-Overview: The smart city is a concept and a variety of definitions exist among academia and practitioners. A smart city can have one or more smart components, including smart transportation, smart grid, smart health care, and smart governance. 
-The need for smart cities is increasing day by day with the increase of population as earthly resources are limited.
+Overview: The “smartness” of a city describes its ability to bring together all its resources, to effectively operate with maximum possible efficiency to fulfill the purposes it has set itself. The smart city is a concept and a variety of definitions exist among academia and practitioners. A smart city can have one or more smart components, including smart transportation, smart grid, smart health care, and smart governance. The Internet of Things (IOT), cyber physical systems (CPS), and Big Data are key technologies in the context of information and communication technology (ICT) critical for the implementation of smart cities. The need for smart cities is increasing day by day with the increase of population as earthly resources are limited.
